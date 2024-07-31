@@ -1,4 +1,3 @@
-// src/components/Contact/Contact.jsx
 import { useDispatch } from 'react-redux';
 import { deleteContact } from '../../redux/contactsSlice';
 import { FaPhone, FaUser } from "react-icons/fa";
